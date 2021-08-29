@@ -1,0 +1,50 @@
+    1  passwd
+    2  $ wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    3  echo "me"
+    4  echo me
+    5  pwd
+    6  echo `pwd`
+    7  echo 'pwd'
+    8  echo "pwd"
+    9  `pwd`
+   10  "pwd"
+   11  echo $HOME
+   12  echo $home
+   13  echo `pwd`
+   14  echo "pwd"
+   15  $man
+   16  man
+   17  man ps
+   18  man ls
+   19  a = abc
+   20  a = 'abc'
+   21  a='abc'
+   22  a
+   23  echo a
+   24  echo `a`
+   25  $a
+   26  echo $a
+   27  b=$adef
+   28  echo $b
+   29  b=${a}def
+   30  echo $b
+   31  echo $ab
+   32  echo ${ab}
+   33  echo ${a}b
+   34  echo $a$b
+   35  man tar
+   36  mkdir CS185C
+   37  ls
+   38  /CS185C
+   39  CS185C
+   40  cd CS185C
+   41  mkdir ws
+   42  cd ws
+   43  mkdir ws1
+   44  ws1
+   45  cd ws1
+   46  git init
+   47  history
+   48  cmds.log
+   49  cd cmds.log
+   50  history > cmds.log
